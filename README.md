@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my Project on volume analyse of the stock market
+- 🌱 I’m currently learning Python, PostgreSQL, HTML, CSS, Flask
 
 
 <!--
